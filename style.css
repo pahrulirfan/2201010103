@@ -1,0 +1,28 @@
+h2 {
+    font-size: 24px;
+    color: blue;
+}
+
+.kapital {
+    text-transform: uppercase;
+}
+
+.hijau {
+    color: green;
+}
+
+.besar {
+    font-size: xx-large;
+}
+
+.jarak-atas {
+    padding-top: 80px;
+}
+
+.kotak {
+    border: black 1px solid;
+}
+
+.warna {
+    background-color: #9EC5FE;
+}
